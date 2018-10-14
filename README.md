@@ -1,5 +1,6 @@
-# dart-world
+# Dart Dünyası (@ dart-world)
 Dart Yazılım Dili, Tek dil çok platform...
+Gelecek vadeden ve heyecanlandıran bir dil
 
 ## Mobile Uygulama İçin
 **Flutter** https://flutter.io/
