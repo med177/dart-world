@@ -7,6 +7,13 @@ Gelecek vadeden ve heyecanlandıran bir dil
 * **Online denemeler için DartPad** https://dartpad.dartlang.org/fb763a4a770b5cdd896982e10ccf4118
 * **Pub - Dart Paketleri (Node.js NPM, Python Pip benzeri bir CLI)** https://pub.dartlang.org/
 
+```dart
+main() {
+  var kime = 'Abdullah';
+  print('Merhaba $kime');
+}
+```
+
 ## Mobile Uygulama İçin
 **Flutter** https://flutter.io/
 Hem iOS hemde Android için uygulamalar yazabilirsiniz.
